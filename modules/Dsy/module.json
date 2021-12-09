@@ -1,0 +1,14 @@
+{
+    "name": "Dsy",
+    "alias": "dsy",
+    "description": "",
+    "keywords": [],
+    "order": 0,
+    "providers": [
+        "Modules\\Dsy\\Providers\\DsyServiceProvider",
+        "Modules\\Dsy\\Providers\\RouteServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

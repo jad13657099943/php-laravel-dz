@@ -1,0 +1,9 @@
+{
+    "Core": true,
+    "Coin": true,
+    "Coinv2": true,
+    "Otc": true,
+    "Web3": true,
+    "User": true,
+    "Dsy": true
+}

@@ -1,0 +1,14 @@
+{
+    "name": "Getcoin",
+    "alias": "getcoin",
+    "description": "",
+    "keywords": [],
+    "order": 0,
+    "providers": [
+        "Modules\\Getcoin\\Providers\\GetcoinServiceProvider",
+        "Modules\\Getcoin\\Providers\\RouteServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

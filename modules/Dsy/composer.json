@@ -1,0 +1,15 @@
+{
+    "name": "nwidart/dsy",
+    "description": "",
+    "authors": [
+        {
+            "name": "CallMeZ",
+            "email": "callme-z@qq.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Modules\\Dsy\\": ""
+        }
+    }
+}
